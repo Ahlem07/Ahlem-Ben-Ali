@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"> Hey, I'm Ahlem Ben Ali
 
-![Building Smart Cities](./banner.svg)
+![Smart City AI Engineer](./smart.png)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&color=%2300838f&center=true&vCenter=true&height=55&width=900&lines=Civil+Engineer+in+the+making;BIM+%7C+Structural+Analysis+%7C+Eurocodes;President+%40+IEEE+ENSIT+Student+Branch;Bridging+Civil+Engineering+%2B+AI" alt="typing-svg" />
 
