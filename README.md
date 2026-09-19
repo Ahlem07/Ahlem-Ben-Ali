@@ -1,36 +1,35 @@
-# Ahlem-Ben-Ali
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30"> Hey, I'm Ahlem Ben Ali
 
-![Coding](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![Building Smart Cities](./banner.svg)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Archivo+Black&color=%2300838f&center=true&vCenter=true&height=55&width=900&lines=Civil+Engineer+in+the+making;BIM+%7C+Structural+Analysis+%7C+Eurocodes;President+%40+IEEE+ENSIT+Student+Branch;Bridging+Civil+Engineering+%2B+AI" alt="typing-svg" />
 
-[![](https://img.shields.io/badge/linkedin-ahlem--ben--ali-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahlem-ben-ali-b56826375/) [![](https://img.shields.io/badge/Email-ahlembenali064%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ahlembenali064@gmail.com) [![](https://img.shields.io/badge/GitHub-ahlembenali-black?style=flat-square&logo=github&logoColor=white)](https://github.com/ahlembenali)
+[![](https://img.shields.io/badge/linkedin-ahlem--ben--ali-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahlem-ben-ali-b56826375/) [![](https://img.shields.io/badge/Email-ahlembenali064%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:ahlembenali064@gmail.com) [![](https://img.shields.io/badge/GitHub-Ahlem07-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Ahlem07)
 
 ---
 
 ## ⚡ Quick Intro
 
-- 🏗️ Élève ingénieure en **Génie Civil** à l'**ENSIT**, Tunis
-- 🧱 Solide expérience en béton armé (Eurocode 2), charpente métallique (Eurocode 3) et BIM
-- 🤖 En exploration à l'intersection **BTP × IA** : Digital Twins, dashboards data-driven, prévision par ML
-- 🎤 **Présidente** de l'IEEE ENSIT Student Branch — leadership, gestion d'équipe & communication
-- 🌍 Trilingue Arabe / Français / Anglais + Allemand courant
+- 🏗️ Civil Engineering student at **ENSIT**, Tunis
+- 🧱 Solid background in reinforced concrete (Eurocode 2), steel structures (Eurocode 3), and BIM
+- 🤖 Exploring the intersection of **Construction × AI**: Digital Twins, data-driven dashboards, ML forecasting
+- 🎤 **President** of the IEEE ENSIT Student Branch — leadership, team management & communication
+- 🌍 Trilingual Arabic / French / English + fluent German
 
 ## 🔥 Contribution Streak
 
-![](https://streak-stats.demolab.com/?user=ahlembenali&theme=tokyonight&hide_border=true&background=0D1117&ring=00838f&fire=00838f&currStreakLabel=00838f)
+![](https://streak-stats.demolab.com/?user=Ahlem07&theme=tokyonight&hide_border=true&background=0D1117&ring=00838f&fire=00838f&currStreakLabel=00838f)
 
 ---
 
-# 🔥 Streak Eater 🐍
+# 🏗️ The Crane That Ate My Commits 🐍
 
-[![github contribution grid snake animation](https://raw.githubusercontent.com/ahlembenali/ahlembenali/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/ahlembenali)
-[![github contribution grid snake animation](https://raw.githubusercontent.com/ahlembenali/ahlembenali/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/ahlembenali)
+[![github contribution grid snake animation](https://raw.githubusercontent.com/Ahlem07/Ahlem07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)](https://github.com/Ahlem07)
+[![github contribution grid snake animation](https://raw.githubusercontent.com/Ahlem07/Ahlem07/output/github-contribution-grid-snake.svg#gh-light-mode-only)](https://github.com/Ahlem07)
 
 ---
 
-## 🛠️ Outils, Logiciels & Compétences
+## 🛠️ Tools, Software & Skills
 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat&logo=autodesk&logoColor=white)
 ![Robot Structural Analysis](https://img.shields.io/badge/Robot%20Structural%20Analysis-005CA9?style=flat)
@@ -54,63 +53,63 @@
 ## 🧭 My Journey
 
 ### 🎓 Current
-- **Cycle Ingénieur — Génie Civil**, ENSIT, Tunis *(en cours)*
-- **Présidente**, IEEE ENSIT Student Branch *(2024 – Présent)*
+- **Engineering Degree — Civil Engineering**, ENSIT, Tunis *(in progress)*
+- **President**, IEEE ENSIT Student Branch *(2024 – Present)*
 
-### 🏗️ Projets Marquants
-- **PFA — Immeuble Sous-sol + RDC + 2 Étages** (Hammamet) — Conception béton armé selon EC2, modélisation sous Robot Structural Analysis
-- **CAO & Modélisation Structurelle — Bâtiment R+2** — AutoCAD, ARCHE Ossature, descente de charges & ferraillage
-- **Hangar Métallique 22×60 m** (Tabarka) — Modélisation 3D acier S235, Eurocode 3, assemblages boulonnés
-- **BIM & Transformation Numérique du BTP** — Étude des synergies BIM / IA / Digital Twins
+### 🏗️ Key Projects
+- **Final Year Project — Basement + Ground Floor + 2 Stories Building** (Hammamet) — Reinforced concrete design per EC2, modeled in Robot Structural Analysis
+- **CAD & Structural Modeling — R+2 Building** — AutoCAD, ARCHE Ossature, load distribution & rebar design
+- **22×60 m Steel Hangar** (Tabarka) — 3D modeling in S235 steel, Eurocode 3, buckling checks, bolted connections
+- **BIM & Digital Transformation in Construction** — Study of BIM / AI / Digital Twins synergies
 
-### 🎓 Éducation
-- **Cycle Ingénieur Génie Civil** — ENSIT, Tunis
-- **Classe Préparatoire PC** (Physique-Chimie) — IPEIEM, Tunis
-- **Baccalauréat Sciences — Mention Bien** — Lycée Nouvelle Médina Ben Arous
+### 🎓 Education
+- **Engineering Degree, Civil Engineering** — ENSIT, Tunis
+- **Preparatory Classes, PC track** (Physics-Chemistry) — IPEIEM, Tunis
+- **High School Diploma, Sciences — Honors** — Lycée Nouvelle Médina Ben Arous
 
 ### 🌐 Info
-- Tunis, Tunisie | ahlembenali064@gmail.com | +216 90 248 886
-- Langues : Arabe (Natif), Français (Courant), Anglais (Courant), Allemand (Courant)
+- Tunis, Tunisia | ahlembenali064@gmail.com | +216 90 248 886
+- Languages: Arabic (Native), French (Fluent), English (Fluent), German (Fluent)
 
 ---
 
-## 🧩 Projets Complémentaires
+## 🧩 Side Projects
 
-- **ECO DATA** — Campus Carbon Intelligence Platform *(ENSIT GreenTech Challenge 2026)* : dashboard interactif d'analyse des émissions carbone
-- **NeuroLearn** — Plateforme IA EdTech *(IEEE Education Week Challenge)* : plateforme éducative intelligente basée sur l'IA
+- **ECO DATA** — Campus Carbon Intelligence Platform *(ENSIT GreenTech Challenge 2026)*: interactive dashboard for carbon emissions analysis and decision support
+- **NeuroLearn** — AI EdTech Platform *(IEEE Education Week Challenge)*: smart AI-based educational platform
 
 ---
 
-### 🏆 Certifications & Événements
+### 🏆 Certifications & Events
 
 - Civil Engineering Structures Day — JOA'25
 - Tunisia Digital Summit TDS 9 (BIM & Smart Cities)
-- Gestion des Risques Climatiques
-- ODD 15
+- Climate Risk Management
+- SDG 15
 - TSYP 12 & 13
 
 ---
 
-### 🙎‍♀️ Leadership & Activités
+### 🙎‍♀️ Leadership & Activities
 
-- 🏆 **Présidente** — IEEE ENSIT Student Branch, Tunisia Section *(2024 – Présent)*
-  - Coordination d'une équipe de bénévoles et organisation d'événements
-  - Gestion des relations avec membres, partenaires et participants
-  - Suivi administratif et communication avec les différentes parties prenantes
-- 📣 **Responsable Communication Digitale** — IEEE ENSIT Student Branch
-  - Gestion des réseaux sociaux (Facebook, Instagram, LinkedIn)
-  - Création de contenus promotionnels et suivi de la communication en ligne
+- 🏆 **President** — IEEE ENSIT Student Branch, Tunisia Section *(2024 – Present)*
+  - Coordinated a team of volunteers and organized events
+  - Managed relationships with members, partners, and participants
+  - Handled administrative follow-up and communication with stakeholders
+- 📣 **Digital Communication Officer** — IEEE ENSIT Student Branch
+  - Managed social media (Facebook, Instagram, LinkedIn)
+  - Created promotional content and monitored online communication
 
-**Palmarès IEEE :**
-- 🥇 1ère place — RAS & VTS Challenge, TSYP 13
-- 🥉 3ème place — SIGHT, TEMS & SSIT Challenge, TSYP 13
-- 🏆 « Most Outstanding Student Branch — Large Category » — TSYP 12
+**IEEE Awards:**
+- 🥇 1st place — RAS & VTS Challenge, TSYP 13
+- 🥉 3rd place — SIGHT, TEMS & SSIT Challenge, TSYP 13
+- 🏆 "Most Outstanding Student Branch — Large Category" — TSYP 12
 
 ## 🤝 Connect With Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-%23008b8b?style=flat&logo=gmail&logoColor=white)](mailto:ahlembenali064@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23008b8b?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahlem-ben-ali-b56826375/) [![GitHub](https://img.shields.io/badge/GitHub-%23008b8b?style=flat&logo=github&logoColor=white)](https://github.com/ahlembenali)
+[![Gmail](https://img.shields.io/badge/Gmail-%23008b8b?style=flat&logo=gmail&logoColor=white)](mailto:ahlembenali064@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23008b8b?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahlem-ben-ali-b56826375/) [![GitHub](https://img.shields.io/badge/GitHub-%23008b8b?style=flat&logo=github&logoColor=white)](https://github.com/Ahlem07)
 
-❤️ Merci d'être passé(e) sur mon profil !
+❤️ Thanks for stopping by my profile!
 © Ahlem Ben Ali
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00838f&height=80&section=footer" width="100%"/>
